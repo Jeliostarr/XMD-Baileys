@@ -19,4 +19,4 @@ This fork is designed to empower bot creators, developers, and communities with 
 ## 📦 Installation
 
 ```bash
-npm install github:Tennor-modz/MD-BAILEYS
+npm install github:Tennor-modz/MD-Baileys 
